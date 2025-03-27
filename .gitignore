@@ -1,0 +1,9 @@
+# Ignore unnecessary Unity files
+Library
+Temp
+Logs
+Obj
+.vs
+.vscode
+Build
+Packages
