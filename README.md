@@ -9,9 +9,9 @@
 - Click an element to **see its details**  
 
 ## 🛠️ How to Run  
-1. Clone this repository:  
-'''git clone https://github.com/yourusername/your-repo.git'''
-2. Open **Unity Hub** > Add Project > Select the cloned folder  
-3. Click **Play** to start the game!  
+1. Clone this repository:
+   ```git clone https://github.com/yourusername/your-repo.git```
+3. Open **Unity Hub** > Add Project > Select the cloned folder  
+4. Click **Play** to start the game!  
 
 
